@@ -1,0 +1,1 @@
+Skrypt do automatycznego rysowania z monochromatycznego pliku bitmapy
